@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">practical_task_2_6</string>
+    <string name="info1">Это калькулятор банковского вклада</string>
+    <string name="duration">Введите срок вклада в месяцах</string>
+    <string name="percent">Введите ежемесячный процент по вкладу</string>
+    <string name="start_sum">Введите начальную сумму вклада</string>
+    <string name="result">Итоговая сумма на вкладе</string>
+    <string name="monthResult">Итоговая сумма в конце каждого месяца</string>
+    <string name="personal_data_name">Журавлев Кирилл</string>
+    <string name="personal_data_group">РИБО-01-21</string>
+    <string name="sum">Рассчитать</string>
+</resources>
